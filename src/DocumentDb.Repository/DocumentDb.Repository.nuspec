@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Fitabase.DocumentDb.Repository</id>
-    <version>1.0.0.$buildNumber$</version>
+    <version>1.0.0.1</version>
     <title>$title$</title>
     <authors>Fitabase</authors>
     <owners>$author$</owners>
